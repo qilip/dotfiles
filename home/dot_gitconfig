@@ -3,3 +3,5 @@
 	email = qilip@qilip.io
 [core]
 	editor = vim
+[pager]
+	branch = false
